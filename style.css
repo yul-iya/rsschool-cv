@@ -1,0 +1,24 @@
+.name{
+  text-align : center;
+
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%;
+}
+
+.contacts{
+    margin-left: 35px; 
+}
+
+.foto{
+    width: 200px;
+    height: 250px;
+
+}
+.foto{
+    margin-right: -100%;
+}
+.contacts{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%;
+      
+}
