@@ -38,4 +38,4 @@ alert( result );
 
 ## Languages
   * Russian - native
-  * English - A2
+  * English - A2=B1
